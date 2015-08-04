@@ -5,6 +5,8 @@ __pycache__/
 # C extensions
 *.so
 
+.idea/*
+
 # Distribution / packaging
 .Python
 env/
@@ -55,3 +57,13 @@ docs/_build/
 
 # PyBuilder
 target/
+
+.idea/.name
+
+.idea/misc.xml
+
+.idea/data-science-from-scratch.iml
+
+.idea/vcs.xml
+
+.idea/modules.xml
